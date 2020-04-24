@@ -1,0 +1,5 @@
+requirements:
+install java/JDK
+set proper environment variables
+
+Executable jar file : dist/DAA-DP.jar
